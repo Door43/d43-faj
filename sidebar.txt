@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[faj:home|Door43 (faj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-faj|d43-faj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-faj/archive/master.zip|d43-faj.zip]]
+
+**Recent Changes**
+{{changes>ns = faj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/faj|Ethnologue data]]
+
